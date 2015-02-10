@@ -4,14 +4,14 @@
         "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "738419620912f6f7fc42a7fb011e3ea5",
+    "hash": "50916e6c18745e3abcf63b0106962bc9",
     "packages": [
         {
             "name": "blimp/blimp-http",
             "version": "dev-master",
             "source": {
                 "type": "git",
-                "url": "../blimp-http",
+                "url": "git@bitbucket.org:nantunes/blimp-http.git",
                 "reference": "e7d68663637b65a9c81979340112b50e5563e8b4"
             },
             "require": {
